@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@theme {
+  --color-ivory: #faf4e8;
+  --color-ivory-deep: #f2e8d5;
+  --color-navy: #12286b;
+  --color-navy-deep: #0b1b4d;
+  --color-coral: #ff6b4a;
+  --color-coral-soft: #ff9a6b;
+  --font-display: "Playfair Display", Georgia, serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
